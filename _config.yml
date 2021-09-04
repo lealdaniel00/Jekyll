@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Daniel David Leal Lara
+description: Ingeniero de Sistemas | Estudiante de Maestria | Apasionado por las Motos
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /Jekyll #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
